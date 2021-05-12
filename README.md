@@ -8,4 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently diving deep into ML/AI
 - 👯 I’m looking to collaborate on projects related ML/AI, web development
 
+![](https://komarev.com/ghpvc/?username=sherin527
+
 
