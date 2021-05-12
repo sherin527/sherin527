@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Machine Learning](https://img.shields.io/badge/-ML-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 
