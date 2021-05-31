@@ -6,6 +6,25 @@
 - 👯 I’m looking to collaborate on projects related ML/AI, web development
 
 
+## 🧰 Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![Machine Learning](https://img.shields.io/badge/-ML-blue?style=for-the-badge&logo=ML)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+
+## My Github Stats
+ ![Sherin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherin527&theme=radical&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherin527&theme=radical)
+
+ 
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sherin527)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
