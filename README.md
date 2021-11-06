@@ -17,6 +17,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Machine Learning](https://img.shields.io/badge/-ML-blue?style=for-the-badge&logo=ML)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+
 
 
 ## My Github Stats
